@@ -11,11 +11,11 @@
 {#if isLoading}
   <!-- Typing Indicator -->
   <div class="flex justify-start mb-4">
-    <div class="bg-white/60 backdrop-blur-md border border-white/60 rounded-2xl rounded-tl-sm px-4 py-3 shadow-sm max-w-[80%]">
+    <div class="bg-pink-50/60 backdrop-blur-md border border-pink-100/60 rounded-2xl rounded-tl-sm px-4 py-3 shadow-sm max-w-[80%]">
       <div class="flex gap-1.5">
-        <span class="w-2 h-2 bg-gray-400 rounded-full animate-bounce" style="animation-delay: 0ms"></span>
-        <span class="w-2 h-2 bg-gray-400 rounded-full animate-bounce" style="animation-delay: 150ms"></span>
-        <span class="w-2 h-2 bg-gray-400 rounded-full animate-bounce" style="animation-delay: 300ms"></span>
+        <span class="w-2 h-2 bg-rose-300 rounded-full animate-bounce" style="animation-delay: 0ms"></span>
+        <span class="w-2 h-2 bg-rose-300 rounded-full animate-bounce" style="animation-delay: 150ms"></span>
+        <span class="w-2 h-2 bg-rose-300 rounded-full animate-bounce" style="animation-delay: 300ms"></span>
       </div>
     </div>
   </div>
@@ -24,12 +24,12 @@
     <!-- Avatar -->
     <div class="flex-shrink-0 {isUser ? 'order-2 ml-3' : 'mr-3'}">
       {#if isUser}
-        <div class="w-8 h-8 rounded-full bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center text-white text-sm font-semibold">
+        <div class="w-8 h-8 rounded-full bg-gradient-to-br from-rose-400 to-pink-500 flex items-center justify-center text-white text-sm font-semibold">
           U
         </div>
       {:else}
-        <div class="w-8 h-8 rounded-full bg-gradient-to-br from-blue-600 via-indigo-600 to-purple-700 flex items-center justify-center text-white text-sm font-semibold">
-          K
+        <div class="w-8 h-8 rounded-full bg-gradient-to-br from-rose-500 via-pink-500 to-fuchsia-600 flex items-center justify-center text-white text-sm font-semibold">
+          L
         </div>
       {/if}
     </div>
@@ -39,8 +39,8 @@
       <div
         class="px-4 py-3 rounded-2xl shadow-sm text-sm leading-relaxed
         {isUser
-          ? 'bg-gradient-to-br from-blue-500 to-indigo-600 text-white rounded-tr-sm'
-          : 'bg-white/60 backdrop-blur-md border border-white/60 text-gray-800 rounded-tl-sm'
+          ? 'bg-gradient-to-br from-rose-500 to-pink-600 text-white rounded-tr-sm'
+          : 'bg-pink-50/60 backdrop-blur-md border border-pink-100/60 text-gray-800 rounded-tl-sm'
         }"
       >
         <!-- Render Markdown sederhana (line break) -->

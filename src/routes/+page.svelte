@@ -34,7 +34,7 @@
 
     <footer class="text-center text-xs text-gray-600 mt-6 space-y-1">
       <p>
-        © 2026 <a href="https://lawiya.webusaha.shop" class="text-rose-600 hover:text-rose-800 underline font-medium" target="_blank" rel="noopener noreferrer">LAWIYA BUTIK</a> · AI Customer Service
+        © 2026 <a href="https://ai-lawiya.pages.dev" class="text-rose-600 hover:text-rose-800 underline font-medium" target="_blank" rel="noopener noreferrer">LAWIYA BUTIK</a> · AI Customer Service
       </p>
       <p class="text-gray-500 text-[11px]">
         Butuh bantuan lebih lanjut? Hubungi WhatsApp{' '}

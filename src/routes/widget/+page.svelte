@@ -11,14 +11,14 @@
 <div class="widget-container bg-gray-50 h-screen flex flex-col relative">
   <div class="flex items-center justify-between px-4 py-3 bg-white/80 backdrop-blur-md border-b border-gray-200 flex-shrink-0">
     <div class="flex items-center gap-2">
-      <div class="w-8 h-8 bg-gradient-to-br from-blue-600 via-indigo-600 to-purple-700 rounded-full flex items-center justify-center text-white font-bold text-sm shadow-md">
-        K
+      <div class="w-8 h-8 bg-gradient-to-br from-rose-500 via-pink-500 to-fuchsia-600 rounded-full flex items-center justify-center text-white font-bold text-sm shadow-md">
+        L
       </div>
       <div>
-        <p class="text-sm font-semibold text-gray-800">KEDAIKU AI</p>
+        <p class="text-sm font-semibold text-gray-800">LAWIYA AI</p>
         <p class="text-xs text-green-600 flex items-center gap-1">
           <span class="w-2 h-2 bg-green-500 rounded-full inline-block"></span>
-          Online · Siap membantu
+          Online · Siap bantu jahit
         </p>
       </div>
     </div>

@@ -1,0 +1,10 @@
+name = "ai-kedai"
+compatibility_date = "2024-01-01"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".svelte-kit/cloudflare"
+
+[vars]
+VITE_GAS_API_URL = ""
+
+[env.production.vars]
+VITE_GAS_API_URL = "https://script.google.com/macros/s/AKfycbyAwSHToyQf4r85oOsLOhP8fRp9iao8zKbsOERPlBNm1bsEYAvM96fG9-qYWowU34FC8A/exec"

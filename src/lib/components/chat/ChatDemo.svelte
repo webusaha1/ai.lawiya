@@ -104,6 +104,6 @@
   </div>
 
   <p class="text-center text-xs text-gray-400 mt-3">
-    © 2026 <a href="https://kedai.webusaha.shop" class="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">KEDAIKU</a> · AI Customer Service
+    © 2026 <a href="https://lawiya.webusaha.shop" class="text-rose-500 hover:underline" target="_blank" rel="noopener noreferrer">LAWIYA BUTIK</a> · AI Customer Service
   </p>
 </div>

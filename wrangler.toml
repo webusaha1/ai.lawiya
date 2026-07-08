@@ -7,4 +7,4 @@ pages_build_output_dir = ".svelte-kit/cloudflare"
 VITE_GAS_API_URL = ""
 
 [env.production.vars]
-VITE_GAS_API_URL = "https://script.google.com/macros/s/AKfycbyAwSHToyQf4r85oOsLOhP8fRp9iao8zKbsOERPlBNm1bsEYAvM96fG9-qYWowU34FC8A/exec"
+VITE_GAS_API_URL = "https://script.google.com/macros/s/AKfycbyD7A0TKh8xXDPrpVi9GzrAKnuI9Uj5VBOYY7RsTzP20CrTpusB3Y1fW7uMNSAC_-sS/exec"
